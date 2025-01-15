@@ -11,4 +11,4 @@ Option 3 gives you a motivational quote for getting your tasks done.
 Option 4 terminates the program.
 
 use "ruby main.rb" in the terminal to run program.
-- Ruby version: `3.2.1`
+
